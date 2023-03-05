@@ -1,5 +1,5 @@
 # SubScan
-subscan is a simple bash script that running few tools for enumeration purpose. More tools coming soon..
+SubScan is a simple bash script that running few tools for enumeration purpose. More tools coming soon..
 
 
 # Tool in Subscan
