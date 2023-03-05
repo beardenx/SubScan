@@ -3,7 +3,7 @@
 figlet -f big "subscan"
 echo "Author : beardenx"
 
-echo "Github : https://github.com/beardenx\n"
+echo "Github : https://github.com/beardenx"
 
 if [ $# -gt 2 ]; then
  	echo "Usage: ./runit.sh <domain>"
